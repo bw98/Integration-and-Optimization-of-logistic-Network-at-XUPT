@@ -2,7 +2,7 @@
 %% 清空环境
 clc
 clear
-close all
+
 %% 算法基本参数
 sizepop=50;           % 种群规模
 overbest=10;          % 记忆库容量
